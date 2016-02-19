@@ -1,0 +1,65 @@
+h1 {
+	text-align: center;
+	font-size: 24px;
+}
+.heading {
+	text-align: center;
+	padding: 5px 20px 5px 20px;
+	width: 30%;
+	border: 1px solid blue;
+	float:left;
+	background-color: aliceBlue;
+	margin-bottom: 50px;
+}
+body {
+	font-size: 16px;
+}
+table {
+	border-collapse: separate;
+	background-color: silver;
+	border: 1px solid black;
+	margin: 20px auto;
+}
+th,
+td {
+	border: 1px solid black;
+	width: 400px;
+	text-align: center;
+}
+.rate {
+	width: 200px;
+}
+
+.top5 {
+	display: inline-block;
+	float: left;
+	width: 50%;
+}
+.facts {
+	display: inline-block;
+	width: 50%;
+}
+.circle {
+	border: 2px solid black;
+	border-radius: 50%;
+	padding: 100px;
+	background-color: green;
+	float: left;
+	margin: 20px 100px;
+}
+.square {
+	border: 2px solid black;
+	padding: 100px;
+	max-width: 100px;
+	background-color: purple;
+	float: left;
+	margin: 20px 100px;
+}
+p {
+	text-align: center;
+}
+img {
+	height: 200px;
+	border: 2px solid blue;
+	margin: 20px 100px;
+}
